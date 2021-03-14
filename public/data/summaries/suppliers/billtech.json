@@ -1,0 +1,1 @@
+{"supplier":"billtech","totalAmount":9600,"nTransactions":1,"expensesByArea":[{"name":"chief executives","value":9600}],"expensesByType":[{"name":"internet access","value":9600}],"lastTransactions":[{"year":2014,"serviceArea":"chief executives","expensesType":"internet access","supplier":"billtech","amount":9600,"month":3,"paymentDate":1396224000000}]}

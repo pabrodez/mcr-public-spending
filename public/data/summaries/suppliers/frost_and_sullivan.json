@@ -1,0 +1,1 @@
+{"supplier":"frost and sullivan","totalAmount":7500,"nTransactions":1,"expensesByArea":[{"name":"manchester leisure","value":7500}],"expensesByType":[{"name":"i t provision","value":7500}],"lastTransactions":[{"year":2020,"serviceArea":"manchester leisure","expensesType":"i t provision","supplier":"frost and sullivan","amount":7500,"month":10,"paymentDate":1603324800000}]}

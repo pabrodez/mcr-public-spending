@@ -1,0 +1,1 @@
+{"supplier":"otis ltd","totalAmount":555.55,"nTransactions":1,"expensesByArea":[{"name":"adult social care","value":555.55}],"expensesByType":[{"name":"general office expenses","value":555.55}],"lastTransactions":[{"year":2019,"serviceArea":"adult social care","expensesType":"general office expenses","supplier":"otis ltd","amount":555.55,"month":1,"paymentDate":1548115200000}]}

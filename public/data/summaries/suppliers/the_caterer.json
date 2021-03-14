@@ -1,0 +1,1 @@
+{"supplier":"the caterer","totalAmount":650,"nTransactions":1,"expensesByArea":[{"name":"chief executives","value":650}],"expensesByType":[{"name":"advertising","value":650}],"lastTransactions":[{"year":2014,"serviceArea":"chief executives","expensesType":"advertising","supplier":"the caterer","amount":650,"month":8,"paymentDate":1408060800000}]}

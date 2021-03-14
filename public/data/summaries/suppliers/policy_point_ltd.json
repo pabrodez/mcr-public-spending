@@ -1,0 +1,1 @@
+{"supplier":"policy point ltd","totalAmount":5000,"nTransactions":1,"expensesByArea":[{"name":"manchester leisure","value":5000}],"expensesByType":[{"name":"professional fees","value":5000}],"lastTransactions":[{"year":2018,"serviceArea":"manchester leisure","expensesType":"professional fees","supplier":"policy point ltd","amount":5000,"month":10,"paymentDate":1538438400000}]}

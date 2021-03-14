@@ -1,0 +1,1 @@
+{"supplier":"porky pig","totalAmount":910,"nTransactions":1,"expensesByArea":[{"name":"manchester leisure","value":910}],"expensesByType":[{"name":"special events","value":910}],"lastTransactions":[{"year":2019,"serviceArea":"manchester leisure","expensesType":"special events","supplier":"porky pig","amount":910,"month":11,"paymentDate":1573171200000}]}

@@ -1,0 +1,1 @@
+{"supplier":"paystream","totalAmount":9500,"nTransactions":1,"expensesByArea":[{"name":"adult social care","value":9500}],"expensesByType":[{"name":"professional fees","value":9500}],"lastTransactions":[{"year":2018,"serviceArea":"adult social care","expensesType":"professional fees","supplier":"paystream","amount":9500,"month":11,"paymentDate":1542672000000}]}

@@ -1,0 +1,1 @@
+{"supplier":"bakers","totalAmount":5875.42,"nTransactions":1,"expensesByArea":[{"name":"highways services","value":5875.42}],"expensesByType":[{"name":"compensation payments","value":5875.42}],"lastTransactions":[{"year":2011,"serviceArea":"highways services","expensesType":"compensation payments","supplier":"bakers","amount":5875.42,"month":1,"paymentDate":1294358400000}]}

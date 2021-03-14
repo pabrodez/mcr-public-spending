@@ -1,0 +1,1 @@
+{"supplier":"hms (hale medical services)","totalAmount":800,"nTransactions":1,"expensesByArea":[{"name":"insurance fund","value":800}],"expensesByType":[{"name":"insurance","value":800}],"lastTransactions":[{"year":2016,"serviceArea":"insurance fund","expensesType":"insurance","supplier":"hms (hale medical services)","amount":800,"month":3,"paymentDate":1458518400000}]}

@@ -1,0 +1,1 @@
+{"supplier":"northwood","totalAmount":1450,"nTransactions":1,"expensesByArea":[{"name":"adult social care","value":1450}],"expensesByType":[{"name":"rents","value":1450}],"lastTransactions":[{"year":2020,"serviceArea":"adult social care","expensesType":"rents","supplier":"northwood","amount":1450,"month":12,"paymentDate":1608768000000}]}

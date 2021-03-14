@@ -1,0 +1,1 @@
+{"supplier":"the ice cream alliance ltd","totalAmount":500,"nTransactions":1,"expensesByArea":[{"name":"chief executives","value":500}],"expensesByType":[{"name":"advertising","value":500}],"lastTransactions":[{"year":2017,"serviceArea":"chief executives","expensesType":"advertising","supplier":"the ice cream alliance ltd","amount":500,"month":9,"paymentDate":1504828800000}]}

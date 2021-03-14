@@ -1,0 +1,1 @@
+{"supplier":"abc taxis runcorn","totalAmount":1275,"nTransactions":1,"expensesByArea":[{"name":"adult social care","value":1275}],"expensesByType":[{"name":"public transport","value":1275}],"lastTransactions":[{"year":2016,"serviceArea":"adult social care","expensesType":"public transport","supplier":"abc taxis runcorn","amount":1275,"month":1,"paymentDate":1453075200000}]}

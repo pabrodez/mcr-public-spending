@@ -1,0 +1,1 @@
+{"supplier":"the account general","totalAmount":2000,"nTransactions":1,"expensesByArea":[{"name":"insurance fund","value":2000}],"expensesByType":[{"name":"insurance","value":2000}],"lastTransactions":[{"year":2013,"serviceArea":"insurance fund","expensesType":"insurance","supplier":"the account general","amount":2000,"month":4,"paymentDate":1366934400000}]}

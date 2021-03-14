@@ -1,0 +1,1 @@
+{"supplier":"dubit","totalAmount":1000,"nTransactions":1,"expensesByArea":[{"name":"childrens services","value":1000}],"expensesByType":[{"name":"carer support payments","value":1000}],"lastTransactions":[{"year":2014,"serviceArea":"childrens services","expensesType":"carer support payments","supplier":"dubit","amount":1000,"month":12,"paymentDate":1418774400000}]}

@@ -1,0 +1,1 @@
+{"supplier":"hypertec ltd","totalAmount":610.9,"nTransactions":1,"expensesByArea":[{"name":"corporate services","value":610.9}],"expensesByType":[{"name":"equipment","value":610.9}],"lastTransactions":[{"year":2013,"serviceArea":"corporate services","expensesType":"equipment","supplier":"hypertec ltd","amount":610.9,"month":2,"paymentDate":1362009600000}]}

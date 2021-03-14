@@ -1,0 +1,1 @@
+{"supplier":"john good ltd","totalAmount":1138.5,"nTransactions":1,"expensesByArea":[{"name":"chief executives","value":1138.5}],"expensesByType":[{"name":"advertising","value":1138.5}],"lastTransactions":[{"year":2011,"serviceArea":"chief executives","expensesType":"advertising","supplier":"john good ltd","amount":1138.5,"month":3,"paymentDate":1300147200000}]}

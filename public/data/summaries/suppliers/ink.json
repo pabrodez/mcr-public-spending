@@ -1,0 +1,1 @@
+{"supplier":"ink","totalAmount":1000,"nTransactions":1,"expensesByArea":[{"name":"chief executives","value":1000}],"expensesByType":[{"name":"advertising","value":1000}],"lastTransactions":[{"year":2013,"serviceArea":"chief executives","expensesType":"advertising","supplier":"ink","amount":1000,"month":8,"paymentDate":1376265600000}]}

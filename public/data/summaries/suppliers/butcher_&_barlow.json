@@ -1,0 +1,1 @@
+{"supplier":"butcher & barlow","totalAmount":55000,"nTransactions":1,"expensesByArea":[{"name":"corporate services","value":55000}],"expensesByType":[{"name":"capital receipts","value":55000}],"lastTransactions":[{"year":2013,"serviceArea":"corporate services","expensesType":"capital receipts","supplier":"butcher & barlow","amount":55000,"month":10,"paymentDate":1382486400000}]}

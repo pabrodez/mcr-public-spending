@@ -1,0 +1,1 @@
+{"supplier":"national testing","totalAmount":660,"nTransactions":1,"expensesByArea":[{"name":"hospitality + trading services","value":660}],"expensesByType":[{"name":"equipment","value":660}],"lastTransactions":[{"year":2020,"serviceArea":"hospitality + trading services","expensesType":"equipment","supplier":"national testing","amount":660,"month":2,"paymentDate":1581638400000}]}

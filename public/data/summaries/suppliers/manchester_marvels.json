@@ -1,0 +1,1 @@
+{"supplier":"manchester marvels","totalAmount":600,"nTransactions":1,"expensesByArea":[{"name":"manchester leisure","value":600}],"expensesByType":[{"name":"rents","value":600}],"lastTransactions":[{"year":2013,"serviceArea":"manchester leisure","expensesType":"rents","supplier":"manchester marvels","amount":600,"month":3,"paymentDate":1364083200000}]}

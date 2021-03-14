@@ -1,0 +1,1 @@
+{"supplier":"bartletts","totalAmount":26254.32,"nTransactions":1,"expensesByArea":[{"name":"housing general fund","value":26254.32}],"expensesByType":[{"name":"building works","value":26254.32}],"lastTransactions":[{"year":2011,"serviceArea":"housing general fund","expensesType":"building works","supplier":"bartletts","amount":26254.32,"month":3,"paymentDate":1301529600000}]}

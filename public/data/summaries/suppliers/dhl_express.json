@@ -1,0 +1,1 @@
+{"supplier":"dhl express","totalAmount":667.19,"nTransactions":1,"expensesByArea":[{"name":"manchester leisure","value":667.19}],"expensesByType":[{"name":"equipment","value":667.19}],"lastTransactions":[{"year":2020,"serviceArea":"manchester leisure","expensesType":"equipment","supplier":"dhl express","amount":667.19,"month":1,"paymentDate":1578528000000}]}

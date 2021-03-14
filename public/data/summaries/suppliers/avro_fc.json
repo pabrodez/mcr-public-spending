@@ -1,0 +1,1 @@
+{"supplier":"avro fc","totalAmount":1300,"nTransactions":1,"expensesByArea":[{"name":"manchester leisure","value":1300}],"expensesByType":[{"name":"payments for services","value":1300}],"lastTransactions":[{"year":2014,"serviceArea":"manchester leisure","expensesType":"payments for services","supplier":"avro fc","amount":1300,"month":5,"paymentDate":1401408000000}]}

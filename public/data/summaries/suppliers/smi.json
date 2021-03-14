@@ -1,0 +1,1 @@
+{"supplier":"smi","totalAmount":4963.68,"nTransactions":1,"expensesByArea":[{"name":"highways services","value":4963.68}],"expensesByType":[{"name":"stationery","value":4963.68}],"lastTransactions":[{"year":2020,"serviceArea":"highways services","expensesType":"stationery","supplier":"smi","amount":4963.68,"month":6,"paymentDate":1592870400000}]}

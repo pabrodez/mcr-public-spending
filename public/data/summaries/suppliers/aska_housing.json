@@ -1,0 +1,1 @@
+{"supplier":"aska housing","totalAmount":300000,"nTransactions":1,"expensesByArea":[{"name":"housing general fund","value":300000}],"expensesByType":[{"name":"building works","value":300000}],"lastTransactions":[{"year":2014,"serviceArea":"housing general fund","expensesType":"building works","supplier":"aska housing","amount":300000,"month":3,"paymentDate":1395964800000}]}

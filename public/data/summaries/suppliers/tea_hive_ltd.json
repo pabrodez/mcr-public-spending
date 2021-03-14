@@ -1,0 +1,1 @@
+{"supplier":"tea hive ltd","totalAmount":600,"nTransactions":1,"expensesByArea":[{"name":"manchester leisure","value":600}],"expensesByType":[{"name":"catering","value":600}],"lastTransactions":[{"year":2016,"serviceArea":"manchester leisure","expensesType":"catering","supplier":"tea hive ltd","amount":600,"month":4,"paymentDate":1461888000000}]}

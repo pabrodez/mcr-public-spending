@@ -1,0 +1,1 @@
+{"supplier":"southern electric","totalAmount":801.95,"nTransactions":1,"expensesByArea":[{"name":"childrens services","value":801.95}],"expensesByType":[{"name":"electricity","value":801.95}],"lastTransactions":[{"year":2010,"serviceArea":"childrens services","expensesType":"electricity","supplier":"southern electric","amount":801.95,"month":12,"paymentDate":1293062400000}]}

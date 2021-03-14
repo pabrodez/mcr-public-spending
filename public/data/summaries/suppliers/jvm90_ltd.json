@@ -1,0 +1,1 @@
+{"supplier":"jvm90 ltd","totalAmount":2800,"nTransactions":1,"expensesByArea":[{"name":"manchester leisure","value":2800}],"expensesByType":[{"name":"payments for services","value":2800}],"lastTransactions":[{"year":2015,"serviceArea":"manchester leisure","expensesType":"payments for services","supplier":"jvm90 ltd","amount":2800,"month":10,"paymentDate":1445385600000}]}

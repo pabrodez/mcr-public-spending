@@ -1,0 +1,1 @@
+{"supplier":"martins","totalAmount":500,"nTransactions":1,"expensesByArea":[{"name":"manchester leisure","value":500}],"expensesByType":[{"name":"catering","value":500}],"lastTransactions":[{"year":2014,"serviceArea":"manchester leisure","expensesType":"catering","supplier":"martins","amount":500,"month":8,"paymentDate":1407196800000}]}

@@ -1,0 +1,1 @@
+{"supplier":"360 capita","totalAmount":15800.68,"nTransactions":1,"expensesByArea":[{"name":"corporate services","value":15800.68}],"expensesByType":[{"name":"bank charges","value":15800.68}],"lastTransactions":[{"year":2019,"serviceArea":"corporate services","expensesType":"bank charges","supplier":"360 capita","amount":15800.68,"month":7,"paymentDate":1563408000000}]}

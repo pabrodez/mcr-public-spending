@@ -1,0 +1,1 @@
+{"supplier":"sam learning ltd","totalAmount":500,"nTransactions":1,"expensesByArea":[{"name":"childrens services","value":500}],"expensesByType":[{"name":"licences purchase","value":500}],"lastTransactions":[{"year":2011,"serviceArea":"childrens services","expensesType":"licences purchase","supplier":"sam learning ltd","amount":500,"month":11,"paymentDate":1321833600000}]}

@@ -1,0 +1,1 @@
+{"supplier":"mstrmnd","totalAmount":1000,"nTransactions":1,"expensesByArea":[{"name":"chief executives","value":1000}],"expensesByType":[{"name":"data links","value":1000}],"lastTransactions":[{"year":2016,"serviceArea":"chief executives","expensesType":"data links","supplier":"mstrmnd","amount":1000,"month":5,"paymentDate":1464048000000}]}

@@ -1,0 +1,1 @@
+{"supplier":"hmrc","totalAmount":3461.53,"nTransactions":1,"expensesByArea":[{"name":"manchester leisure","value":3461.53}],"expensesByType":[{"name":"proffesional fees","value":3461.53}],"lastTransactions":[{"year":2014,"serviceArea":"manchester leisure","expensesType":"proffesional fees","supplier":"hmrc","amount":3461.53,"month":5,"paymentDate":1400112000000}]}

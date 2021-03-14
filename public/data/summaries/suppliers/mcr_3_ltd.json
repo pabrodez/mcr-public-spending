@@ -1,0 +1,1 @@
+{"supplier":"mcr 3 ltd","totalAmount":25500,"nTransactions":1,"expensesByArea":[{"name":"childrens services","value":25500}],"expensesByType":[{"name":"rents","value":25500}],"lastTransactions":[{"year":2010,"serviceArea":"childrens services","expensesType":"rents","supplier":"mcr 3 ltd","amount":25500,"month":12,"paymentDate":1292198400000}]}

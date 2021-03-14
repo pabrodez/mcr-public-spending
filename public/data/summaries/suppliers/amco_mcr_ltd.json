@@ -1,0 +1,1 @@
+{"supplier":"amco mcr ltd","totalAmount":1200,"nTransactions":1,"expensesByArea":[{"name":"adult social care","value":1200}],"expensesByType":[{"name":"rents","value":1200}],"lastTransactions":[{"year":2019,"serviceArea":"adult social care","expensesType":"rents","supplier":"amco mcr ltd","amount":1200,"month":8,"paymentDate":1564617600000}]}

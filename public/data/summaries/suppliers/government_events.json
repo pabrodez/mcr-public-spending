@@ -1,0 +1,1 @@
+{"supplier":"government events","totalAmount":661.3,"nTransactions":1,"expensesByArea":[{"name":"corporate services","value":661.3}],"expensesByType":[{"name":"grant payments","value":661.3}],"lastTransactions":[{"year":2020,"serviceArea":"corporate services","expensesType":"grant payments","supplier":"government events","amount":661.3,"month":10,"paymentDate":1603065600000}]}

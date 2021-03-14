@@ -1,0 +1,1 @@
+{"supplier":"cleggs","totalAmount":10142.98,"nTransactions":1,"expensesByArea":[{"name":"housing revenue account","value":10142.98}],"expensesByType":[{"name":"building works","value":10142.98}],"lastTransactions":[{"year":2011,"serviceArea":"housing revenue account","expensesType":"building works","supplier":"cleggs","amount":10142.98,"month":2,"paymentDate":1296777600000}]}

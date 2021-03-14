@@ -1,0 +1,1 @@
+{"supplier":"forbes","totalAmount":60321.64,"nTransactions":1,"expensesByArea":[{"name":"housing general fund","value":60321.64}],"expensesByType":[{"name":"building works","value":60321.64}],"lastTransactions":[{"year":2011,"serviceArea":"housing general fund","expensesType":"building works","supplier":"forbes","amount":60321.64,"month":3,"paymentDate":1299542400000}]}

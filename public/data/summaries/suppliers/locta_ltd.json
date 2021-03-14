@@ -1,0 +1,1 @@
+{"supplier":"locta ltd","totalAmount":3100,"nTransactions":1,"expensesByArea":[{"name":"corporate services","value":3100}],"expensesByType":[{"name":"tracing fees","value":3100}],"lastTransactions":[{"year":2020,"serviceArea":"corporate services","expensesType":"tracing fees","supplier":"locta ltd","amount":3100,"month":11,"paymentDate":1606176000000}]}

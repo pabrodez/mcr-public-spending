@@ -1,0 +1,1 @@
+{"supplier":"alan albert gibbons","totalAmount":1000,"nTransactions":1,"expensesByArea":[{"name":"manchester leisure","value":1000}],"expensesByType":[{"name":"special events","value":1000}],"lastTransactions":[{"year":2018,"serviceArea":"manchester leisure","expensesType":"special events","supplier":"alan albert gibbons","amount":1000,"month":12,"paymentDate":1543795200000}]}

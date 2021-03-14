@@ -1,0 +1,1 @@
+{"supplier":"i can","totalAmount":1500,"nTransactions":1,"expensesByArea":[{"name":"childrens services","value":1500}],"expensesByType":[{"name":"training and development","value":1500}],"lastTransactions":[{"year":2014,"serviceArea":"childrens services","expensesType":"training and development","supplier":"i can","amount":1500,"month":3,"paymentDate":1395619200000}]}

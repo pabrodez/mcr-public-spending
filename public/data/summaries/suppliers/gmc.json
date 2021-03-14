@@ -1,0 +1,1 @@
+{"supplier":"gmc","totalAmount":5760.9,"nTransactions":1,"expensesByArea":[{"name":"manchester leisure","value":5760.9}],"expensesByType":[{"name":"general office expenses","value":5760.9}],"lastTransactions":[{"year":2017,"serviceArea":"manchester leisure","expensesType":"general office expenses","supplier":"gmc","amount":5760.9,"month":11,"paymentDate":1512000000000}]}
