@@ -1,5 +1,6 @@
 name: Download current year data
 on: 
+  workflow_dispatch:
   schedule:
     - cron: '58 23 14,28 * *'
 
