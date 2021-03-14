@@ -1,5 +1,4 @@
 name: Download current year data
-description: 'Download current year data, save them as JSON and write summary data'
 on: 
   schedule:
     - cron: '58 23 14,28 * *'

@@ -1,5 +1,4 @@
 name: Download all data
-description: 'Download archive and latest months, save them as JSON and write summary data'
 on: 
   workflow_dispatch:
 
