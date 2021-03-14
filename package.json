@@ -1,0 +1,28 @@
+{
+  "name": "mcr-public-spending",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "download:archive": "node ./scripts/download-archive.js",
+    "download:current" : "node ./scripts/download-current.js",
+    "write-summaries": "node ./scripts/write-summaries.js"
+  },
+  "dependencies": {
+    "@chakra-ui/icons": "^1.0.6",
+    "@chakra-ui/react": "^1.3.4",
+    "@emotion/react": "^11.1.5",
+    "@emotion/styled": "^11.1.5",
+    "axios": "^0.21.1",
+    "download": "^8.0.0",
+    "framer-motion": "^3.10.0",
+    "next": "10.0.6",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "recharts": "^2.0.6",
+    "sass": "^1.32.8",
+    "xlsx": "^0.16.9"
+  }
+}

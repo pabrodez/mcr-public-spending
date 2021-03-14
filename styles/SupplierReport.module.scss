@@ -1,0 +1,50 @@
+.SupplierReport {
+    // text-overflow: ellipsis;
+    // overflow: hidden;    
+
+    h2, h3 {
+        background-color: #434c5e;
+        color: #eceff4;
+        border-radius: 5px;
+        padding: 0.8em;
+        box-shadow: 5px 5px #ebcb8b;
+        font-weight: 600;
+        font-size: 1.2em;
+        margin-bottom: 1.5em;
+
+        strong {
+            color: #ebcb8b;
+        }
+    }
+
+    .graph {
+        width: 100%;
+        // max-height: 400px;        
+    }
+
+    section {
+        display: flex;
+        flex-flow: column;
+        align-items: stretch;
+    }    
+
+    ul {
+        list-style: none;
+        display: flex;
+        flex-flow: column nowrap; 
+        align-items: stretch;
+        gap: 10px;
+
+        li {
+            border: 3px solid #ebcb8b;
+            border-radius: 5px;
+            padding: 0.5em;
+
+            span {
+                font-weight: 700;
+                color: #2e3440;
+            }
+        }
+    }
+    
+}

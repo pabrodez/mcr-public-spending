@@ -1,0 +1,24 @@
+name: Download all data
+description: 'Download archive and latest months, save them as JSON and write summary data'
+on: 
+  workflow_dispatch:
+
+jobs: 
+  download_data:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - uses: actions/setup-node@v2
+      with:
+        node-version: '14.x'
+    - run: npm ci
+    - run: npm run download:archive
+    - run: npm run download:current
+    - run: npm run write-summaries
+    - run: |
+        git config user.name 'Pablo Rodriguez'
+        git config user.email 'pabrodez@gmail.com'
+        git add .
+        git commit -m "Add archive and current year data"
+        git push

@@ -1,0 +1,24 @@
+name: Download current year data
+description: 'Download current year data, save them as JSON and write summary data'
+on: 
+  schedule:
+    - cron: '58 23 14,28 * *'
+
+jobs: 
+  download_data:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - uses: actions/setup-node@v2
+      with:
+        node-version: '14.x'
+    - run: npm ci
+    - run: npm run download:current
+    - run: npm run write-summaries
+    - run: |
+        git config user.name 'Pablo Rodriguez'
+        git config user.email 'pabrodez@gmail.com'
+        git add .
+        git commit -m "Add current year data"
+        git push

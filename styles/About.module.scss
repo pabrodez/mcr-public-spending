@@ -1,0 +1,15 @@
+.About {
+    ul {
+        padding-left: 4ch;
+    }
+
+    .meme {
+        background-image: url("https://i.kym-cdn.com/entries/icons/original/000/036/622/agnes.jpg");
+        background-size: cover;
+        background-color: rgba($color: #000000, $alpha: 0.3);
+        background-blend-mode: darken;
+        width: 200px;
+        height: 100px;
+        color: #fff;
+    }
+}
