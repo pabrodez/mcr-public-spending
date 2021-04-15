@@ -1,0 +1,1 @@
+{"supplier":"sa consulting","totalAmount":500,"nTransactions":1,"expensesByArea":[{"name":"chief executives","value":500}],"expensesByType":[{"name":"professional fees","value":500}],"lastTransactions":[{"year":2021,"serviceArea":"chief executives","expensesType":"professional fees","supplier":"sa consulting","amount":500,"month":2,"paymentDate":1612224000000}]}
