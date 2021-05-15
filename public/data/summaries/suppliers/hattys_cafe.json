@@ -1,0 +1,1 @@
+{"supplier":"hattys cafe","totalAmount":4600,"nTransactions":1,"expensesByArea":[{"name":"corporate services","value":4600}],"expensesByType":[{"name":"lrsg grant payment","value":4600}],"lastTransactions":[{"year":2021,"serviceArea":"corporate services","expensesType":"lrsg grant payment","supplier":"hattys cafe","amount":4600,"month":3,"paymentDate":1614729600000}]}

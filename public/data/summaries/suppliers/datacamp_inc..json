@@ -1,0 +1,1 @@
+{"supplier":"datacamp inc.","totalAmount":522.61,"nTransactions":1,"expensesByArea":[{"name":"corporate services","value":522.61}],"expensesByType":[{"name":"equipment","value":522.61}],"lastTransactions":[{"year":2021,"serviceArea":"corporate services","expensesType":"equipment","supplier":"datacamp inc.","amount":522.61,"month":3,"paymentDate":1616544000000}]}

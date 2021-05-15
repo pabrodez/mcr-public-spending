@@ -1,0 +1,1 @@
+{"supplier":"software ltd","totalAmount":2800,"nTransactions":1,"expensesByArea":[{"name":"corporate services","value":2800}],"expensesByType":[{"name":"licences purchase","value":2800}],"lastTransactions":[{"year":2021,"serviceArea":"corporate services","expensesType":"licences purchase","supplier":"software ltd","amount":2800,"month":3,"paymentDate":1617148800000}]}
