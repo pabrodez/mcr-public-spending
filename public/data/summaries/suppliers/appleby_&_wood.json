@@ -1,0 +1,1 @@
+{"supplier":"appleby & wood","totalAmount":750,"nTransactions":1,"expensesByArea":[{"name":"corporate services","value":750}],"expensesByType":[{"name":"professional fees","value":750}],"lastTransactions":[{"year":2021,"serviceArea":"corporate services","expensesType":"professional fees","supplier":"appleby & wood","amount":750,"month":7,"paymentDate":1625443200000}]}
