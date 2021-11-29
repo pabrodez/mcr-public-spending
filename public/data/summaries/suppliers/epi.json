@@ -1,0 +1,1 @@
+{"supplier":"epi","totalAmount":5000,"nTransactions":1,"expensesByArea":[{"name":"manchester leisure","value":5000}],"expensesByType":[{"name":"special event","value":5000}],"lastTransactions":[{"year":2021,"serviceArea":"manchester leisure","expensesType":"special event","supplier":"epi","amount":5000,"month":8,"paymentDate":1629763200000}]}

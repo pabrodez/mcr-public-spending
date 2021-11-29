@@ -1,0 +1,1 @@
+{"supplier":"trinity barristers","totalAmount":1000,"nTransactions":1,"expensesByArea":[{"name":"corporate services","value":1000}],"expensesByType":[{"name":"legal fees","value":1000}],"lastTransactions":[{"year":2021,"serviceArea":"corporate services","expensesType":"legal fees","supplier":"trinity barristers","amount":1000,"month":9,"paymentDate":1632960000000}]}
