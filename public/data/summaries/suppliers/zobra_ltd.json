@@ -1,0 +1,1 @@
+{"supplier":"zobra ltd","totalAmount":1800,"nTransactions":1,"expensesByArea":[{"name":"corporate services","value":1800}],"expensesByType":[{"name":"catering","value":1800}],"lastTransactions":[{"year":2021,"serviceArea":"corporate services","expensesType":"catering","supplier":"zobra ltd","amount":1800,"month":10,"paymentDate":1633046400000}]}

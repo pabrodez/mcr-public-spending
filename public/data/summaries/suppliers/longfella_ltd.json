@@ -1,0 +1,1 @@
+{"supplier":"longfella ltd","totalAmount":1000,"nTransactions":1,"expensesByArea":[{"name":"manchester leisure","value":1000}],"expensesByType":[{"name":"special event","value":1000}],"lastTransactions":[{"year":2021,"serviceArea":"manchester leisure","expensesType":"special event","supplier":"longfella ltd","amount":1000,"month":10,"paymentDate":1634256000000}]}
