@@ -1,0 +1,1 @@
+{"supplier":"urbancanda","totalAmount":3000,"nTransactions":1,"expensesByArea":[{"name":"manchester leisure","value":3000}],"expensesByType":[{"name":"training and development","value":3000}],"lastTransactions":[{"year":2021,"serviceArea":"manchester leisure","expensesType":"training and development","supplier":"urbancanda","amount":3000,"month":12,"paymentDate":1639958400000}]}
